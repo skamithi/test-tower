@@ -3,3 +3,5 @@
   tasks:
     - name: Run ping
       ping:
+    - command: date
+    - command: ls
